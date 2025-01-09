@@ -6,6 +6,7 @@ Right now I am using gracenolan's notes (I am not sure how to reference them oop
 They highlighted a few topics that I am going to attempt to code in python. I am listing out their topics here:
 "
 - Cyphers / encryption algorithms
+- [Project Caesar](project_caesar.md)
 - Parse arbitrary logs
 - Collect logs (of any kind) and write a parser which pulls out specific details (domains, executable names, timestamps etc.)
 - Web scrapers
