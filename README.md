@@ -9,4 +9,6 @@ I am learning how to use the github environment so I can "get good" (That's what
 
 Anywho, even though this platform is intimidating at first, it's important to know that this is a learning experience, and you gotta start somewhere!
 
+Contents:
 
+[Guiding Post](guiding-post.md)
