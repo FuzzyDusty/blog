@@ -1,10 +1,8 @@
 # Guiding Post
 
-Welcome to my GitHub Pages blog! This is where I’ll share updates on my projects and what I’m learning.
+This is where I’ll share updates on my projects. I will link more as time goes on...
 
-Right now I am using gracenolan's notes (I am not sure how to reference them oops) to work on my cybersecurity coding skills.
-They highlighted a few topics that I am going to attempt to code in python. I am listing out their topics here:
-"
+
 - Cyphers / encryption algorithms
     - [Project Caesar](project_caesar.md)
 - Parse arbitrary logs
@@ -25,6 +23,6 @@ They highlighted a few topics that I am going to attempt to code in python. I am
 - Malware signatures
 - A program that looks for malware signatures in binaries and code samples.
     Look at Yara rules for examples.
-" (these bullets are from gracenolan's page).
+" (these topics are ideas from @gracenolan).
 
 Thanks for stopping by!
