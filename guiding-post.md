@@ -1,10 +1,21 @@
 # Guiding Post
 
-This is where I’ll share updates on my projects. I will link more as time goes on...
-
+In Progress:
 
 - Cyphers / encryption algorithms
     - [Project Caesar](project_caesar.md)
+
+- HacktheBox (great networking experience)
+
+- Network+ Certification
+
+
+Future Projects:
+
+
+
+
+
 - Parse arbitrary logs
 - Collect logs (of any kind) and write a parser which pulls out specific details (domains, executable names, timestamps etc.)
 - Web scrapers
