@@ -1,6 +1,7 @@
 # Project Caesar
 
-For my first project, I am going to make a caesar cipher in python!
+For my first "github" project, I am going to make a caesar cipher in python! 
+  ~ (which also includes learning about git add, git commit, and git push) ~
 
 # What is a Caesar Cipher?
 
