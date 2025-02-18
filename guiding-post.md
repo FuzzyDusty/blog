@@ -1,13 +1,22 @@
 # Guiding Post
 
+History:
+
+- Homelab Setup [openvpn, wireshark, port forwarding galore! + raspberry pi of course]
+
+- The Road to my Network+ Certification
+
+- nmap: the practical reconaissance tool
+
+
+
+
 In Progress:
 
 - Cyphers / encryption algorithms
     - [Project Caesar](project_caesar.md)
 
 - HacktheBox (great networking experience)
-
-- Network+ Certification
 
 
 Future Projects:
